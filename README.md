@@ -1,7 +1,7 @@
 ### **Objective**: 
 Analyze SEO performance and marketing campaign effectiveness for Uniace over a 3- week period.
 
-#### **Technical Skills**: 
+### **Technical Skills**: 
 SQL, PowerBI, SEO Metrics
 
 ### **Description**:
